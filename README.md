@@ -1,5 +1,5 @@
 # Conference_AP
-Party Planner / HR Conference
+Party Planner / HR Conference (This project has had several names in the past, - from party planner, wedding seats to conference (to give context and meaning to the INTENT of the assignment)
 
 Project is Due after 2 class periods - so plan early and implement on a good, sound design.
 
